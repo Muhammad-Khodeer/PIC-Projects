@@ -1,0 +1,10 @@
+main
+	ioConfi
+	initialValues
+		offLed1
+		offLed2
+	checkButton
+		onLed1
+		offLed2
+		onLed2
+		offLed1
