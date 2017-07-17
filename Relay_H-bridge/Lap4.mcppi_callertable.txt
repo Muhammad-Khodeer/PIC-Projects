@@ -1,0 +1,13 @@
+main
+	ioConfiguration
+	initialValues
+		offMoveL
+		offMoveR
+	checkButtons
+		offMoveR
+		onMoveL
+		offMoveL
+		onMoveR
+	stopButton
+		offMoveL
+		offMoveR
