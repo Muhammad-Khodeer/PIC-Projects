@@ -1,0 +1,9 @@
+main
+	__CC2DW
+		____DoICP
+	ioConfi
+	initialValues
+		offLed1
+	checkButton
+		onLed1
+		offLed1
